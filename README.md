@@ -21,7 +21,7 @@ PHP (>= 7.x) MySQL (>= 5.x) Apache Server (Optional: XAMPP, WAMP, or MAMP) Azure
 
 ### Installation Guide
 Clone the repository:
-bash Copy code git clone https://github.com/Gauri2105/teacher-record-management-system.git cd trms
+bash Copy code git clone [https://github.com/Diksha-kapgate/Explorerhub.git]
 
 ### Set up the MySQL Database:
 Create a new MySQL database (e.g., tms). Import the provided SQL file
