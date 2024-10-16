@@ -30,7 +30,7 @@ Create a new MySQL database (e.g., tms). Import the provided SQL file
 Open config.php and update with database credential
 
 ### Start Apache and MySQL Servers:
-If using XAMPP, ensure both Apache and MySQL are running. Access the Application: Open a browser and visit http://localhost/trm/
+If using XAMPP, ensure both Apache and MySQL are running. Access the Application: Open a browser and visit http://localhost/tms/
 
 ### Usage
 Admin Login: Access the Explorer (Tourism Management System ) with the provided admin credentials. Tourism Management: Add, update, and delete tourism packages. Search Functionality: Use filters to quickly find specific records.
