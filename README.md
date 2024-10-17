@@ -32,6 +32,22 @@ Open config.php and update with database credential
 ### Start Apache and MySQL Servers:
 If using XAMPP, ensure both Apache and MySQL are running. Access the Application: Open a browser and visit http://localhost/tms/
 
+### Login Details for admin : 
+
+Open Your browser put inside browser “http://localhost/tms/admin”
+
+Username: admin
+
+Password: Test@123
+
+Login Details for user: 
+
+Open Your browser put inside browser “http://localhost/tms/”
+
+Username: test@gmail.com
+
+Password: Test@123
+
 ### Usage
 Admin Login: Access the Explorer (Tourism Management System ) with the provided admin credentials. Tourism Management: Add, update, and delete tourism packages. Search Functionality: Use filters to quickly find specific records.
 
