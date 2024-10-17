@@ -37,6 +37,10 @@ Admin Login: Access the Explorer (Tourism Management System ) with the provided 
 
 ### screenshots
 
+![Screenshot 2024-10-16 152020](https://github.com/user-attachments/assets/cdc1f138-096e-4783-b08b-39df1ff0688e)
+![Screenshot 2024-10-16 152102](https://github.com/user-attachments/assets/9f97eedf-0cef-4d5a-9651-2b5fcee438d3)
+![Screenshot 2024-10-16 152139](https://github.com/user-attachments/assets/e5a6a1df-f82e-4873-8378-4fd2ba371516)
+![Screenshot 2024-10-16 152139](https://github.com/user-attachments/assets/19ee68f6-c4e8-4a33-ae82-1561dc721b72)
 
 
 ### Future Improvements
